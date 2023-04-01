@@ -1,4 +1,4 @@
-# CSS | Ödev-2
+# CSS | Ödev-2 
 
 ### Kodluyoruz Front-End Eğitimindeki CSS bölümünün ikinci ödevi
 
