@@ -4,7 +4,7 @@
 
 [Çağrı Erdem | Patika.dev Profilim](https://app.patika.dev/cagrierdem)
 
-### Google Beta - 1998 Web Sitesi (HTML+CSS)
+### Google Beta - 1998 Web Sitesi Klonu (HTML+CSS)
 
 Önizleme:
 
