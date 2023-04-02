@@ -2,9 +2,9 @@
 
 ### Kodluyoruz Front-End Eğitimindeki CSS bölümünün ikinci ödevi
 
-[Çağrı Erdem | Patika.dev Profilim](https://app.patika.dev/cagrierdem)
+#### Google Beta - 1998 Web Sitesi Klonu (HTML+CSS)
 
-### Google Beta - 1998 Web Sitesi Klonu (HTML+CSS)
+[Çağrı Erdem | Patika.dev Profilim](https://app.patika.dev/cagrierdem)
 
 Önizleme:
 
