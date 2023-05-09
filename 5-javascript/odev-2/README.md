@@ -10,4 +10,4 @@
 
 Önizleme:
 
-![Onizleme](img/onizleme.jpg)
+![Onizleme](img/onizleme.png)
