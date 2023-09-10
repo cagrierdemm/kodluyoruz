@@ -1,0 +1,61 @@
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.logo img{
+    display: block;
+    margin: auto;            
+}
+
+.search{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    margin: auto;
+}
+
+tr>td:nth-child(1){
+    background-color: #7EE5DA;
+    width: 32%;
+    text-align: center;
+}
+
+tr>td:nth-child(2){
+    background-color: #70CCC2;
+    text-align: center;
+    width: 16%;
+    font-size: small;
+}
+
+tr>td:nth-child(3){
+    background-color: #62B3AA;
+    text-align: center;
+    font-size: small;
+    width: 37%;
+
+}
+
+table a{
+    display: block;
+}
+
+table input[type="submit"]+a{
+    display: inline;
+}
+
+footer{
+    margin-top: 20px;
+    clear: both;
+    text-align: center;
+    font-size: small;
+}
