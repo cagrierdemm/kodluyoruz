@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Hava Durumu Uygulaması | React
+
+![onizleme.jpg](./public/onizleme.jpg)
+
+- 81 il desteği
+- Dark mode desteği
+- Localstorage ile şehir ve tema bilgisi tutma
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
